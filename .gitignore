@@ -1,0 +1,10 @@
+# 系统垃圾
+.DS_Store
+Thumbs.db
+desktop.ini
+*.tmp
+*.part
+
+# 编辑器
+.vscode/
+*.swp
